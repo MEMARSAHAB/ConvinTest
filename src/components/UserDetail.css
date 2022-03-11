@@ -1,0 +1,28 @@
+.detail_cont {
+  text-align: center;
+  padding: 20px;
+  border: 2px solid black;
+  min-height: 260px;
+}
+
+.info{
+    color: #2c2c2c;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.error{
+    color: #af0606;
+}
+
+.user_info{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.avatar{
+    width: 50px;
+    height: 50px;
+}
